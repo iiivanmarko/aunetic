@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.3/gsap.min.js' integrity='sha512-gmwBmiTVER57N3jYS3LinA9eb8aHrJua5iQD7yqYCKa5x6Jjc7VDVaEA0je0Lu0bP9j7tEjV3+1qUm6loO99Kw==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>
+  </head>
+  <style>
+
+textarea{width: 100%;height: 90vh;resize: horizontal;}
+.page{display: flex;}
+.cards{display: none;}
+
+  </style>
+  <body>
+    <div class="cards" data-cards>
+
+      
+   
+    </div>
+
+    <button data-process>process</button>
+    <div class="page">
+
+      <textarea name="" id="" data-data></textarea>
+      <textarea name="" id="" data-getcode></textarea>
+    </div>
+    
+  </body>
+
+  <script>
+
+const process = document.querySelector('[data-process]')
+
+const data = document.querySelector('[data-data]')
+const cards = document.querySelector('[data-cards]')
+
+process.addEventListener("click",()=>{
+
+
+
+
+
+
+const reg = data.value.replace(/<p><strong>/g,"<h2>").replace(/<\/strong><\/p>/g,"</h2>")
+
+
+cards.innerHTML = reg
+
+
+
+
+const h2s = document.querySelectorAll('h2')
+const p = document.querySelectorAll('.cards > p')
+
+
+
+const Icons =  ['settings_accessibility', 'ios_share', 'file_open', 'add_task', 'token', 'view_timeline', 'dynamic_form', 'swipe_right', 
+     'install_desktop', 'browse_activity', 'send_time_extension', 'quick_reference_all', 'acute', 'sweep', 'rule_settings', 'drag_click',
+     'send_time_extension', 'quick_reference_all', 'acute', 'sweep', 'rule_settings', 'drag_click'
+   ]
+
+   const usedItems = []
+   
+   
+   
+   let result = "";
+
+    h2s.forEach((l,index) => {
+
+
+    let rndItem = Icons[Math.floor(gsap.utils.random(0,Icons.length)) ]
+    while(usedItems.includes(rndItem)){
+      rndItem = Icons[Math.floor(gsap.utils.random(0,Icons.length)) ]
+    }
+
+    usedItems.push(rndItem)
+     
+        result +=
+          '<div class="card"><div class="icon"><span class="material-symbols-outlined logo">'+rndItem+'</span></div>\r';
+      result += `<h2>${l.textContent}</h2>\r`;
+      result += `<p>${p[index].innerHTML}</p>\r`;
+      result += "</div>\r\r";
+
+    });
+
+   const getcode = document.querySelector('[data-getcode]')
+
+   getcode.value = result
+
+
+
+
+})
+
+  </script>
+</html>

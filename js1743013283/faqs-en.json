@@ -1,0 +1,436 @@
+{
+
+
+  "Legal Entity Management": {
+    "url": "Legal-Entity-Management",
+
+    "38": {
+      "q": "Does the built-in charting solution allow us to go ‘back in time’ and view historical charts? ",
+      "a": "Yes, this is certainly possible (assuming that our Legal Entity Management solution contains your historical data).\nYou can simply select the date you are interested in and either select the full organization OR a selection based on the filtering you set.\nThe updated chart will then show the historical organizational structure, either the full organization or based on a requested selection criteria. "
+    },
+
+    "39": {
+      "q": "How do you handle access rights to various parts of the Legal Entity Management solution?",
+      "a": "Our customers require a high level of flexibility in general, the access right management is no different.\nWe are accustomed to working with rather large and complex organizations and our access right management gives you the flexibility required.\nYou can determine per section whether it is visible for Super Admins, Group Reporters, generic users or viewers and what actions each user is able to conduct.\nEssentially, we offer a matrix structure which allows for a high level of flexibility. "
+    },
+    "40": {
+      "q": "What about Two-Factor Authentication (2FA), Single Sing-on (SAML 2.0.) and SCIM  (System for Cross-domain Identity Management) user proficiency? ",
+      "a": "In short: All of the above is supported and can be offered upon request. "
+    },
+    "41": {
+      "q": "Can we retrieve or push data from / to your Legal Entity Management solution via an API?",
+      "a": "Yes, we can exchange data with other SaaS solutions, the intranet, etc. \nWe are happy to discuss the available options."
+    },
+    "42": {
+      "q": "Are you ISO 27001 certified?",
+      "a": "Yes, Aunetic is ISO 27001 certified "
+    }
+  },
+
+  "Pillar 2": {
+    "url": "Pillar-2",
+    "1": {
+      "q": "How long does it take to set the software into place?",
+      "a": "Our software is a SaaS solution. We help you to get started through importing existing data such as entities etc. to get started. If all data is available, you can be up and running quickly."
+    },
+    "2": {
+      "q": "Where is the data stored? ",
+      "a": "Our servers are located in Amsterdam, a backup is done in Ireland. The data thus remains within the European Union."
+    },
+    "3": {
+      "q": "Do I need to involve resources from the IT department to implement Aunetic Pillar 2 solution?",
+      "a": "We do the set-up of the platform; no resources need to be taken from your IT department"
+    },
+    "4": {
+      "q": "Can you integrate with my ERP system?",
+      "a": "Yes, we can build an API if requested."
+    },
+    "5": {
+      "q": "Can I tailor the data input for my group?",
+      "a": "Yes, we will provide a starting point for the data points needed which you then can update yourself to reflect the need of your group."
+    }
+  },
+
+  "Country-by-Country Reporting": {
+    "url": "Country-by-Country-Reporting",
+    "91": {
+      "q": "How does your CbCR solution support us in gathering the required datapoints from the local offices? ",
+      "a": "The Country-by-Country module facilitates gathering of the required datapoints through an easy and semi-automated process that enables the user to reach out to the local reporters with the click of a button. The local reporters can simply enter the required data points, including comments, and sign-off. At group level you will be able to monitor the progress and schedule (automated) reminders as you see fit. "
+    },
+    "92": {
+      "q": "Is your CbCR solution usable as a stand-alone solution?",
+      "a": "Our Country-by-Country Reporting SaaS module requires an active license of Aunetic’s Legal Entity Management solution (include link to LEM page), as the CbCR module relies on the existing Legal Entity Data needed for the CbCR calculation, which in itself saves you valuable time. "
+    },
+    "93": {
+      "q": "Does the CbCR solution offer further benefits, beyond the reporting itself?",
+      "a": "Yes, several data points from the CbCR calculation will be instantly available in the Piller 2 calculation, avoiding double work. When licensing our Pillar 2 Module, we enable our customers to add additional data points that are relevant for the Pillar 2 calculation, to the CbCR data collection, saving valuable time."
+    },
+    "94": {
+      "q": "Is it possible to enter or abstract the data for the CbCR calculation in Excel?",
+      "a": "Yes, depending on your organization’s preference, it is possible to choose to upload the CbCR figures through the use of an Excel Template if this is preferred over the Data-Collection process. \nYou will also be able to export the CbCR figures to Excel (a function that is available in most of our Tax & Legal modules)."
+    }
+  },
+  "Mandatory Disclosure Regime (DAC6)": {
+    "url": "Mandatory-Disclosure-Rules-DAC-6",
+    "87": {
+      "q": "When am I required to file a DAC6 / MDR report?",
+      "a": "The DAC6 directive requires a mandatory disclosure within 30 days after a reportable cross-border arrangement (ie. arrangements involving at least two EU Member States) or involving one EU Member State and one or more third country (non-EU) jurisdictions) or when a first step in the implementation of such an arrangement has been completed. Our module allows you to easily report cross-border arrangements in a timely manner. You will have the Legal Entity Data already at hand with Aunetic’s Legal Entity Management solution (licensed separately), saving you valuable time when reporting. "
+    },
+    "88": {
+      "q": "Will your solution include Local Tax Legislation?",
+      "a": "Yes, in the solution you will find an overview of the latest local Tax Legislation (and when the information was last updated)"
+    },
+    "89": {
+      "q": "Is your DAC6 / MDR solution usable as a stand-alone solution?",
+      "a": "Our module requires an active license of Aunetic’s Legal Entity Management solution, as the DAC6 / MDR solution relies on the existing Legal Entity Data.\nThe Legal Entity Management module ensures that you will always have the required data up-to-date and at hand, which saves you valuable time. "
+    },
+    "90": {
+      "q": "How do we enter or upload the needed datapoints?",
+      "a": "Our MDR / DAC6 solution gives you the option to download an Excel Template and upload it once complete for further reporting (or to gather any remaining data points from within your organization through our solution). You can work on and keep track of multiple disclosures at group level, monitoring the progress directly in our solution."
+    }
+  },
+
+
+  "Efficiency Add-ons": {
+    "url": "Efficiency-Add-ons",
+
+    "6": {
+      "q": "Can I use the data I have collected in other modules? ",
+      "a": "Yes the data flows freely between the modules. "
+    },
+    "7": {
+      "q": "Do I need Legal Entity Management to purchase one of your other modules.",
+      "a": "It is not necessary but however we recommend that you do – a good data set that is kept updated provides a good ground since your legal entities is the base. "
+    },
+    "8": {
+      "q": "Can you help me set up standard templates or provide guidance and use cases? ",
+      "a": "We are happy to share best practice received working with our clients for many years. We are also happy to discus our point of view when it comes to system support and set up. "
+    }
+  },
+
+  "Tax & Legal Risk": {
+    "url": "Tax-and-Legal-Risk",
+
+    "9": {
+      "q": "How are the risks identified and how is the headquarter notified? ",
+      "a": "The risks module automatically sends out emails to appropriately assigned people that have insight into e.g. tax risks. These persons report the risks in a predestinated form."
+    },
+
+    "10": {
+      "q": "Can everyone see all the risks? ",
+      "a": "You are only allowed to see the risks for the entities you have been assigned to e.g. a country or region. Hower the reviewer can of course access all the risks. "
+    },
+    "11": {
+      "q": "Can I monitor any changes or updates in the risks?",
+      "a": "Yes, our system highlights and updates the risks for you through comparison reports. "
+    },
+    "12": {
+      "q": "How do I know that all risks are reported?",
+      "a": "Our system requires a sign-off from the people responsible for reporting the risks. This will ascertain a clear governance structure. "
+    }
+  },
+
+
+
+    "Internal Audit": {
+      "url": "Internal-Audit",
+  
+      "13": {
+        "q": "Does Aunetic offer other corporate governance solutions besides audit management software? \n",
+        "a": "Yes, we also develop and provide software solutions in the areas of tax & legal as well as compliance. "
+      },
+      "14": {
+        "q": "Can the software be adapted to our internal audit process? ",
+        "a": "Yes, Aunetic Audit (formerly audimex) is highly configurable to match your internal audit workflows. The software offers extensive customization options, allowing you to align it with your specific audit methodology, approval processes, and reporting structures. Additionally, individual programming can further extend the system to meet unique business requirements. "
+      },
+  
+      "15": {
+        "q": "What support options do you offer for your audit management solutions?",
+        "a": "We provide our customers with support via a ticket system, email, and hotline on all business days from 9 AM to 5 PM."
+      },
+      "16": {
+        "q": "What operating modes do you offer, and how secure is my data? ",
+        "a": "Our software solutions are typically provided as Software-as-a-Service (SaaS). Your data is stored in a secure, high-performance, and certified data center in Frankfurt am Main, Germany. We use our data center partner for co-location, meaning the IT hardware belongs to Aunetic, and we only use the facility services of the data center (such as power supply, cooling, fire protection, video surveillance, etc.). Our SaaS service levels meet the highest data protection and information security standards. According to the GDPR, we are the sole data processor, and the IT operations are exclusively monitored by our trained IT personnel. "
+      },
+      "17": {
+        "q": "What certifications does Aunetic Germany GmbH hold? ",
+        "a": "Aunetic Germany GmbH is certified according to ISO 27001 and TISAX. Our data center partner in Frankfurt also meets internationally recognized standards, including: \n\nISO 9001:2015 (Quality Management) \n\nISO/IEC 27001:2013 (IT Security) \n\nISO 14001 (Environmental Management) \n\nISAE 3402 Type 2 \n\nPCI-DSS "
+      },
+      "18": {
+        "q": "What costs are associated with using the Internal Audit Software as a SaaS solution? ",
+        "a": "The cost structure of our SaaS solutions is simple and transparent: \n\nAnnual SaaS Fee: The fee is based on the number of auditors and includes the software license for each active user. Auditees can be included for free and without limitation. \n\nOne-time setup costs: These include the initialization of the SaaS environment and the implementation project. The duration and effort of the project depend on your specific requirements. "
+      }
+    },
+  
+    "Mobile Audit": {
+      "url": "Mobile-Audit",
+  
+      "19": {
+        "q": "Who is the Mobile Audit Solution designed for?",
+        "a": "This solution is ideal for organizations with distributed operations—such as retail chains, franchise systems, or companies with multiple branches—that require standardized, efficient, and scalable audit processes. "
+      },
+      "20": {
+        "q": "How does the solution increase efficiency in auditing?",
+        "a": "Automated processes—from checklist assignment to campaign management and reporting—help reduce audit processing time by up to 20–30%, making audits faster, more structured, and less resource-intensive."
+      },
+      "21": {
+        "q": "Can audit results be standardized and compared across locations?",
+        "a": "Yes. The solution uses intelligent checklist logic with standardized questions, ensuring consistent data collection and comparability across regions, departments, or audit types."
+      },
+  
+      "22": {
+        "q": "How does the mobile app improve the audit process?",
+        "a": "Auditors can conduct audits on the go, attach images and data, and work even without a stable internet connection. The app ensures full flexibility, seamless collaboration, and real-time synchronization with the central platform."
+      }
+    },
+    "Governmental Affairs": {
+      "url": "Governmental-Affairs",
+  
+      "28": {
+        "q": "Where is my data stored? ",
+        "a": "Customers’ data and backups are hosted and stored in Switzerland. Each customer has their own isolated instance. Data is encrypted at rest and in transit using customer-specific encryption keys. "
+      },
+      "29": {
+        "q": "Is there a minimum amount of users? ",
+        "a": "We usually require a minimum of 3 users. Contact us if your situation is different. A solution is always within reach."
+      },
+      "30": {
+        "q": "How long does it take to implement the solution? ",
+        "a": "We pride ourselves on having an intuitive tool that is easy and straightforward to use. Our objective is for you to be independent as soon as possible. To do this, we usually require 3-4 hours to get you up and running. "
+      },
+      "31": {
+        "q": "Can we integrate this tool with other Aunetic modules? ",
+        "a": "Our tool and services can be integrated to other modules we offer, such as Auditing and Compliance. Do not hesitate to contact us to learn more.  "
+      },
+      "32": {
+        "q": "Can I personalize the tool to fit my process? ",
+        "a": "Yes! Our tool is made to adapt to your processes. We also have extensive and broad knowledge working with multiple industries, which we always share during the onboarding period so that you may have the best process that fits your needs.  "
+      }
+    },
+  
+    "Regulatory Compliance": {
+      "url": "Regulatory-Compliance",
+  
+      "23": {
+        "q": "Where is my data stored?",
+        "a": "Your data and backups are securely hosted in Switzerland. Each customer is assigned a dedicated, isolated instance. Data remains encrypted both at rest and in transit, using unique encryption keys tailored to each customer."
+      },
+      "24": {
+        "q": "Is there a minimum number of users?",
+        "a": "We generally recommend at least three users. However, if your requirements differ, feel free to reach out—we’re happy to explore a solution that fits your needs."
+      },
+      "25": {
+        "q": "How long does it take to implement the solution?",
+        "a": "Our platform is designed to be intuitive and user-friendly, ensuring a smooth onboarding experience. We aim to make you fully independent as quickly as possible. Typically, setup and initial training take around 3–4 hours."
+      },
+      "26": {
+        "q": "Can we integrate this tool with other Aunetic modules?",
+        "a": "Yes, our tool seamlessly connects with other Aunetic modules, including Auditing and Compliance. If you’d like to learn more about integration possibilities, don’t hesitate to get in touch. "
+      },
+      "27": {
+        "q": "Can I personalize the tool to fit my process?",
+        "a": "Absolutely! The tool is designed to align with your specific processes. Leveraging our extensive experience across different industries, we provide valuable insights during onboarding to help you implement an optimized workflow tailored to your needs."
+      }
+    },
+  
+
+  
+    "Compliance Management": {
+      "url": "Compliance-Management",
+  
+      "33": {
+        "q": "What is the Aunetic Compliance Management Solution?",
+        "a": "The Aunetic Compliance Management Solution is a comprehensive platform that integrates compliance management and audit functionalities, designed to streamline workflows, reduce administrative burdens, and ensure regulatory integrity across business operations."
+      },
+      "34": {
+        "q": "Can the software be adapted to our internal audit and compliance processes? ",
+        "a": "Yes, our platform is highly configurable to match your internal workflows. The software offers extensive customization options, allowing you to align it with your specific audit methodology, approval processes, and reporting structures. "
+      },
+      "35": {
+        "q": "How does the solution help businesses stay compliant?",
+        "a": "The platform automates compliance processes, providing real-time visibility into compliance activities. It enables audit teams to monitor, verify, and adapt to changing regulations, ensuring business continuity without disruption."
+      },
+      "36": {
+        "q": "How does Aunetic ensure transparency in compliance?",
+        "a": "Aunetic offers interactive dashboards and enhanced reporting, providing real-time insights into compliance data. This ensures continuous visibility into the status of compliance actions, offering full control and transparency over compliance efforts."
+      },
+      "37": {
+        "q": "Does Aunetic offer other governance solutions besides audit and compliance management software?",
+        "a": "Yes, we also develop and provide software in the areas of Tax & Legal Management, as well as various compliance tools such as GDPR and Whistleblower Management."
+      }
+    },
+  
+
+  
+    "Whistleblowing": {
+      "url": "Whistleblowing",
+  
+      "43": {
+        "q": "Can a report be submitted orally? ",
+        "a": "Yes. On the report page, there are options for the informant to report by telephone by recording a voice message or booking a meeting with the recipient. Currently, we are offering this service for our Swedish customers only. We are working on extending this service to the rest of Europe.  "
+      },
+      "44": {
+        "q": "Does the whistleblower system meet the requirements of the GDPR? ",
+        "a": "Yes. We have extensive experience of working with GDPR and data protection and ensure that the whistleblower system follows current rules in the area. "
+      },
+  
+      "45": {
+        "q": "Who receives the whistle reports? ",
+        "a": "You can choose to be the recipient yourself and appoint someone within the organization who is authorized to handle incoming cases.  "
+      },
+      "46": {
+        "q": "Can the whistleblower send files? ",
+        "a": "Yes. When creating a report, it is possible to upload files, such as images and videos. The informants can also complete the report afterwards by logging in with their unique ID and password and upload files. "
+      },
+      "47": {
+        "q": "Can the whistleblower report anonymously? ",
+        "a": "Yes, it is possible to be completely anonymous. The whistleblower receives a unique ID and password to be able to follow up and, for example, add more information to the case. The whistleblower can also choose to enter his or her name if they do not want to be anonymous. "
+      },
+      "48": {
+        "q": "Can we adapt the whistleblower system to our specific needs? ",
+        "a": "By default, it can be customized with the company logo and colors. "
+      },
+      "49": {
+        "q": "How can the informant follow the case? ",
+        "a": "After the report is created, the informant receives a unique ID and password to be able to securely log in and follow their report or answer any further questions from the recipient. They can also add additional information if necessary. "
+      },
+      "50": {
+        "q": "How can we communicate information about the whistleblower channel? ",
+        "a": "When you join our whistleblower service, you will receive a start-up package with posters and templates to inform the people concerned about how they go about reporting any irregularities. "
+      },
+      "51": {
+        "q": "How does the whistleblower system ensure that reports are not deleted by any recipient? ",
+        "a": "Everything that is done in the system is logged. This means that if a recipient performs an action, for example deleting a case, it is visible in the log when it was deleted and by whom. "
+      },
+      "52": {
+        "q": "Is it possible to assign different permissions for those who have access to the system? ",
+        "a": "Yes. The system has different permission levels and can, for example, only allow users to read and not edit. "
+      },
+      "53": {
+        "q": "What languages is the system available in? ",
+        "a": "By default, the system is included in Swedish and English, as several languages are available as an option. We are constantly developing to match our users' language needs. "
+      },
+      "54": {
+        "q": "What statistics can we get from the whistleblower system? ",
+        "a": "You can get statistics on how many reports have been made, how many of them are actually whistleblowing and what type of case it is classified as (e.g. misconduct, bribery, exploitation of position). "
+      },
+      "55": {
+        "q": "Where is the information stored? ",
+        "a": "All data is stored in Swedish server halls. "
+      }
+    },
+  
+    "GDPR": {
+      "url": "Software-for-GDPR",
+  
+      "56": {
+        "q": "Does the GDPR only apply within the EU? ",
+        "a": "The EU considers that the personal data of its citizens should be protected as far as possible, even outside the borders of the Union. Therefore, the law covers all processing of EU citizens' personal data, regardless of whether the company or organization carrying out the processing is located within the EU or not. An e-commerce in China aiming for EU citizen customers is thus covered by the GDPR in the same way as a company in Sweden. "
+      },
+      "57": {
+        "q": "What applies to personal data breaches? ",
+        "a": "The person responsible for personal data, the data controller, is obliged to report any personal data breach to the supervisory authority, in Sweden Integritetsskyddsmyndigheten (IMY), within 72 hours. The exception to this obligation is if it is unlikely that the data breach entails a risk to the rights and freedoms of the data subjects. The decision not to report must be documented, in case of an inspection. "
+      },
+      "58": {
+        "q": "What do I do when someone requests that their personal data is to be deleted? ",
+        "a": "One of the fundamental rights of data subjects is the right to have their data deleted, or in other words, to be \"forgotten\". If a data subject makes a request of its’ personal data to be deleted, the main rule is that you must delete them. However, there are some exceptions when the data is not to be deleted. The exceptions often apply if the person responsible for personal data is an authority or performs a task of general interest. You can, among other things, refuse the data subject deletion if it is necessary to maintain other important rights, such as the rights to freedom of speech or information, to fulfill a legal obligation, or to be able to establish, assert or defend legal claims. Regardless of whether you delete the information or have a reason to keep it, you must reply to the data subject without undue delay, i.e. no later than one month after you have received the request. "
+      },
+      "59": {
+        "q": "What does GDPR mean for a company ",
+        "a": "As a company, you need to meet the requirements set out in the GDPR. This means, among other things, to follow the general principles, ensuring that all processing of personal data has a legal basis and informing the data subjects about how you process their personal data. "
+      },
+      "60": {
+        "q": "What happens if you do not meet the requirements of the GDPR? ",
+        "a": "If you violate the GDPR, you can receive a large fine. How big is estimated case by case, but the maximum is 20 million Euros or four percent of the global annual revenues, whichever is the highest amount. This is to also be able to make the large global groups live up to the regulations. "
+      },
+      "61": {
+        "q": "What is a data processor? ",
+        "a": "A data processor is the person who processes personal data on behalf of the personal data controller. It can for example be a provider of a cloud service or an external IT support function. "
+      },
+      "62": {
+        "q": "What is a Data Protection Officer? ",
+        "a": "A Data Protection Officer (DPO) is a designated person, either internally or externally, who has extensive knowledge of the GDPR and acts as a contact person both for Integritetsskyddsmyndigheten (IMY) and for the subjects whose data is processed. Contact Qnister if you want to hire an external Data Protection Officer. "
+      },
+      "63": {
+        "q": "What is a legal basis? ",
+        "a": "You must support any processing of personal data in your business on one of the legal basis. Without a legal basis, the processing of personal data is not legal. The six legal basis are: <li>A contract with the data subject</li><li>Legal obligation</li><li>Legitimate interest</li><li>Protect vital interests</li><li>Task of the public interest or in the exercise of official authority</li><li>Consent </li>"
+      },
+      "70": {
+        "q": "What is a personal data breach? ",
+        "a": "A personal data breach means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data transmitted, stored or otherwise processed. "
+      },
+      "71": {
+        "q": "What is a processing of data? ",
+        "a": "Processing is basically everything you can do with the personal data. This could be, for example, collecting, storing, moving, deleting, or printing the data. "
+      },
+      "72": {
+        "q": "What is a valid consent? ",
+        "a": "Consent is a common legal basis on which companies base their processing of personal data. However, it is important that the consent is valid. Being valid contains that the question of consent must be separate from other information (i.e. not hidden in other text), be set in a clear and comprehensible language adapted to the person who is to give their consent and it must also be just as easy to revoke the consent at a later date. "
+      },
+      "73": {
+        "q": "What is GDPR? ",
+        "a": "The GDPR stands for the General Data Protection Regulation. It was issued by the EU and entered into force in 2018. The purpose of the GDPR is to strengthen the protection of EU citizens' personal data. This means, among other things, that the previous EU directive, which was implemented in Swedish law through PUL, ceased to apply and thus also PUL. Since an EU regulation is directly applicable in all EU countries it does not need to be implemented through national legislation. "
+      },
+      "74": {
+        "q": "What is personal data? ",
+        "a": "Personal data is all data that can be used to identify a living person. For example, social security number, address, name, account number, etc. Also, several data in combination, which individually is not enough to identify an individual, are considered personal data. "
+      },
+      "75": {
+        "q": "What is sensitive personal data? ",
+        "a": "Sensitive personal data or special categories of personal data means data that is of a particularly sensitive nature. It can be data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation Information about health can be, for example, sick leave, doctor appointments and pregnancy. It is prohibited to process sensitive personal data unless an exception applies, e.g. that another law makes it mandatory, for example in labor law. "
+      },
+      "76": {
+        "q": "When do I need a data processing agreement? ",
+        "a": "GDPR states two situations where a data processing agreement needs to be entered into. The first situation concerns when a processor processes personal data for the controller. The second situation concerns when a processor hires a sub-processor to perform a specific processing, on behalf of the controller. In both situations, binding data processing agreements need to be entered into. "
+      },
+      "77": {
+        "q": "Who is responsible for personal data? ",
+        "a": "The person responsible for personal data is the person who decides that data is to be collected and for what purpose it is to be used. It is usually a company or organization, but can in some cases be an individual. The person responsible for personal data is called a data controller. "
+      },
+      "78": {
+        "q": "Who should comply with the GDPR? ",
+        "a": "All businesses that process personal data must comply with the GDPR. It applies to companies, associations, organizations, authorities, and (in some cases) natural persons. "
+      }
+    },
+  
+    "Sanctions": {
+      "url": "Sanctions",
+  
+      "79": {
+        "q": "Can you see if someone has been listed in a list before but has been removed? ",
+        "a": "Yes, if an actor has been listed before, you will get a search result with the word \"inactive\". To find out when and for how long the actor has been listed, you need to go to the specific list's website. Contact us if you need any help. "
+      },
+      "80": {
+        "q": "Can you see which lists the actor is registered in? ",
+        "a": "Yes, if the actor is listed in any sanction register, it also says which register the actor is listed in. "
+      },
+      "81": {
+        "q": "How do I search in lists issued by the United States? ",
+        "a": "Go to our search tool Sanctions, in which you can find direct links to three lists issued by the United States. "
+      },
+      "82": {
+        "q": "What are sanctions? ",
+        "a": "Sanctions impose restrictions on the freedom of action of a state, a group, or individuals through a unilateral decision of one state or collective decision of other states. This is because the states want to try to influence the behavior of the state, group, or individual through various economic and political measures. "
+      },
+      "83": {
+        "q": "What can you search for? ",
+        "a": "You can search for, for example, names of people, companies, organizations, or abbreviations for these. "
+      },
+      "84": {
+        "q": "What does it mean if no hit comes up? ",
+        "a": "If you do not get a hit, it means that the actor is not listed in any of our linked registers. However, this does not necessarily exclude the actor from being on another sanction list issued in other parts of the world, such as the United States. Also, make sure that your search word is spelled correctly. "
+      },
+      "85": {
+        "q": "What happens if I misspelled the search? ",
+        "a": "If you have misspelled your search, it may affect the result. Therefore, double-check your spelling. "
+      },
+      "86": {
+        "q": "Which sanction lists do Sanctions search? ",
+        "a": "We search in all sanction registers within the EU, the UK, Switzerland, and the UN at the same time. "
+      }
+    }
+  
+
+
+  }
+  

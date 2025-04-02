@@ -1,0 +1,197 @@
+.center {
+  margin: 0 auto;
+}
+.maxwidth {
+  max-width: 1000px;
+  padding: 2rem;
+}
+
+.f-orange {
+  color: var(--orangeColor);
+}
+.f-dark {
+  color: var(--darkColor);
+}
+p,li {
+  line-height: 2rem;
+}
+h1,h2{color:var(--orangeColor)}
+.faqs h1,
+.faqs h2
+{color:var(--darkColor);}
+.bgorange h2{color:white;}
+ul{margin-left: 1rem !important;}
+
+p,ul{margin: 0;padding: 0;}
+
+strong{padding-top: 2rem; display: block;}
+fieldset strong{display: inline-block;padding-top: 1rem;} 
+.mainpage strong{padding-top: 0rem; display: inline; color: var(--orangeColor);}
+.mainpage p{padding-bottom: 1rem;}
+
+.sheet{ gap: 1rem; display:flex;align-items:center; justify-content:center; margin-bottom: 2rem;}
+li {
+  list-style-image: url('checkmark.svg');
+
+}
+
+li.black {
+  list-style-image: url('checkmarkblack.svg');
+}
+
+li::marker{  font-size: 1.3rem;}
+.logos {
+  gap: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 3rem;
+  background-color: white;
+  padding: 1rem;
+}
+.logos img {
+ /* width: 8rem; */
+width: 50px;height: 25px; object-fit: contain;
+}
+span.logo {
+ font-size: 4rem;
+ transition: all .2s;
+}
+
+.bgorange {
+  background-color: var(--orangeColor);
+}
+
+.intro p {
+  margin-bottom: 1rem;
+}
+.cards {
+  --width:250px;
+  margin: 0 auto;
+  max-width: 1200px;
+  display: grid;
+  padding: 2rem;
+  /* place-items: center; */
+  column-gap: 2rem;
+  row-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(var(--width), 1fr));
+  /* grid-template-columns: repeat(4,1fr); */
+  /* grid-template-rows: auto auto auto; */
+}
+
+.card {
+  display: grid;
+  grid-row: span 3;
+  grid-template-rows: subgrid;
+  cursor: pointer;
+}
+
+.card:hover span.logo{scale:1.2; color:var(--darkColor)}
+.card h2 {
+  text-wrap: balance;
+}
+/* .icon{display:flex;align-items:center; justify-content:center;} */
+.card p {
+  color: var(--darkColor);
+  text-wrap: pretty;
+  height: 0;
+  opacity: 0;
+}
+.card.active p{height: auto; opacity: 1;}
+.card pl {
+  color: var(--darkColor);
+  text-wrap: pretty;
+  height: 0;
+  opacity: 0;
+}
+.card.active pl{height: auto; opacity: 1;}
+
+.related {
+  padding-bottom: 11rem;
+}
+.fag {
+  padding: 2rem 0 1rem 0;
+  border-bottom: 2px solid var(--darkColor);
+}
+.q {
+  display: flex;
+  gap: 1rem;
+  color: var(--darkColor);
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+/* .open .q span {
+  opacity: 0;
+} */
+.a {
+  padding-left: 3rem;
+  display: none;
+}
+.open .a {
+  display: block;
+}
+
+
+.headerimg{width: 100%;height: 300px; object-fit: cover; object-position: center;}
+video{width: 100%;}
+
+img{display: block;}
+.intro{padding: 2rem;}
+
+.sets{margin-top: 2rem;display: grid; gap: 1rem;}
+
+@media (min-width:800px) {
+  .sets{display: grid;grid-template-columns: 1fr 1fr; }
+  .sets p {padding: 1rem;}
+  .sets strong {margin: 0; padding: 0; display: block;}
+  .videointro{display: grid; grid-template-columns: minmax(600px,1fr) minmax(500px,900px); max-width: 1800px; margin: 0 auto;}
+  .video{padding: 2rem; padding-left: 0;}
+  .video.pic img{width: 100%;height: 100%;object-fit: contain; object-position: top center;}
+  /* .video.pic video{width: 100%;height: 100%;object-fit: contain;} */
+  
+}
+
+.quote{background-color:var(--orangeColor); padding: 1rem; color: var(--darkColor); margin: 1rem 0;}
+.quotes{scale:3; display: inline-block; padding: 0rem 1rem;}
+
+legend{font-size: 1.2rem; color:var(--orangeColor); padding: 0 1rem;}
+
+
+.interests{display: flex; gap: 1rem;margin: 1rem 0;}
+.interest img{width: 120px;height: 120px; object-fit: cover;}
+.interest p{color:white;}
+.interest{transition: scale .3s;}
+.interest:hover{scale:1.1}
+
+.staticlogos{display: flex; flex-wrap: wrap; gap: 1rem; display:flex;align-items:center; justify-content:center; padding: 1rem;}
+.staticlogos img{width: 7rem;}
+
+
+
+form{
+    
+  display: grid; 
+  grid-template-columns: 1fr; 
+gap:1rem;
+padding: 2rem 0;
+
+
+}
+.description{grid-column: -1/1; }
+
+@media(min-width:800px){
+  form{grid-template-columns: 1fr 1fr;}
+}
+
+
+
+
+label{display: block; margin-bottom: 0.2rem;}
+/* .formGrid  * {outline: 1px solid red;} */
+
+input,textarea{padding: 1rem; width: 100%; outline: none; border: none;}
+input[type=submit]{width: fit-content; cursor: pointer;}
+
+
+textarea{min-height: 200px;}

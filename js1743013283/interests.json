@@ -1,0 +1,70 @@
+{
+
+    "compliance":{
+        "img":"10",
+        "en":"Compliance <br> Management",
+        "url":"Compliance-Management"
+    },
+    "Regulatory Compliance":{
+        "img":"regulatory",
+        "en":"Regulatory <br> Compliance",
+        "url":"Regulatory-Compliance"
+    },
+    "Governmental-Affairs":{
+        "img":"13",
+        "en":"Governmental <br> Affairs",
+        "url":"Governmental-Affairs"
+    },
+    "Mobile Audit":{
+        "img":"09",
+        "en":"Mobile Audit",
+        "url":"Mobile-Audit"
+    },
+    "Whistleblow":{
+        "img":"15",
+        "en":"Whistleblowing",
+        "url":"Whistleblowing"
+    },
+    "internalaudit":{
+        "img":"internal",
+        "en":"Internal Audit",
+        "url":"Internal-Audit"
+    },
+    "LEM":{
+        "img":"14",
+        "en":"LEM",
+        "url":"Legal-Entity-Management"
+    },
+    "CBCR":{
+        "img":"03",
+        "en":"CBCR",
+        "url":"Country-by-Country-Reporting"
+    },
+    "Pillar2":{
+        "img":"pillar",
+        "en":"Pillar 2",
+        "url":"Pillar-2"
+    },
+    "efficiency-add-on":{
+        "img":"05",
+        "en":"Efficiency Add-ons",
+        "url":"Efficiency-Add-ons"
+
+    },
+    "MDR DAC 6":{
+        "img":"04",
+        "en":"MDR DAC 6",
+        "url":"Mandatory-Disclosure-Rules-DAC-6"
+    },
+    "gdpr":{
+        "img":"16",
+        "en":"GDPR",
+        "url":"GDPR"
+    },
+    "Sanctions":{
+        "img":"sanctions",
+        "en":"Sanctions",
+        "url":"Sanctions"
+    }
+
+}
