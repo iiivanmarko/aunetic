@@ -15,7 +15,7 @@ export const structure = [
     { en: "Legal Entity Management", de: "Legal Entity Management" },
     { en: "Pillar 2", de: "Pillar 2" },
     { en: "Country-by-Country Reporting", de: "Country-by-Country Reporting" },
-    { en: "Mandatory Disclosure Rules / DAC 6", de: "Mandatory Disclosure Rules / DAC 6" },
+    { en: "Mandatory Disclosure Rules / DAC6", de: "Mandatory Disclosure Rules / DAC6" },
     { en: "Efficiency Add-ons", de: "Zusatzmodule Effizienz" },
   ],
   },

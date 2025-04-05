@@ -18,13 +18,13 @@
     <div class="videointro">
         <div class="video pic"> <img class="headerimg" src="img/pages/10.jpg" alt=""></div>
         <div class="intro">
-<h1>Compliance automatisieren, Risiken reduzieren, Effizienz maximieren 
+        <h1>Automate compliance, reduce risk, maximize efficiency 
 </h1>
-<p>In der heutigen komplexen Regulierungslandschaft hilft Aunetics Compliance-Management-Lösung Unternehmen dabei, den Überblick zu behalten, indem sie Compliance-Management und Prüfungsfunktionen nahtlos integriert. Arbeitsabläufe werden optimiert, administrative Belastungen reduziert und regulatorische Integrität über alle Geschäftsbereiche hinweg sichergestellt.
+<p>In today’s complex regulatory landscape, Aunetic's Compliance Management Solution helps organizations stay ahead by seamlessly integrating compliance management and audit functionality. Streamline workflows, reduce administrative burdens, and ensure regulatory integrity across all business operations.
 </p>
-<p>Unsere Plattform automatisiert Compliance-Prozesse und bietet Echtzeit-Einblick in alle Compliance-Aktivitäten. Dadurch können Prüfungsteams Änderungen in Vorschriften leicht überwachen, verifizieren und sich anpassen – für einen unterbrechungsfreien Geschäftsbetrieb.
+<p>Our platform automates compliance processes, providing real-time visibility into compliance activities. This enables audit teams to easily monitor, verify, and adapt to changing regulations, ensuring business continuity without disruption.
 </p>
-<p>Mit KI-gestützter Automatisierung und dynamischem Reporting erhalten Unternehmen volle Transparenz über ihre Compliance-Leistungen, stärken ihre Governance und bleiben agil in einem sich wandelnden regulatorischen Umfeld.
+<p>With AI-powered automation and dynamic reporting, businesses gain full visibility into compliance performance, strengthening governance and ensuring agility in an evolving regulatory environment.
 </p>
 
 <p style="margin-bottom: 1rem; color:var(--orangeColor)">

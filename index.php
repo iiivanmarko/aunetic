@@ -141,28 +141,11 @@ include("elements/meta.php");
                   if (str_contains($logo,"partners")) continue
                   
                   ?>
-                    <img src="<?php echo $logo ?>" alt="">
+                    <img src="<?php echo $logo ?>?v=2" alt="">
                     <?php } ?>
 
             </div>
-            <div class='restloop' data-one>
-                <?php foreach (glob ("img/pages/logos/*/*") as $logo) {
-                  if (str_contains($logo,"partners")) continue
-                  
-                  ?>
-                    <img src="<?php echo $logo ?>" alt="">
-                    <?php } ?>
-
-            </div>
-            <div class='restloop' data-one>
-                <?php foreach (glob ("img/pages/logos/*/*") as $logo) {
-                  if (str_contains($logo,"partners")) continue
-                  
-                  ?>
-                    <img src="<?php echo $logo ?>" alt="">
-                    <?php } ?>
-
-            </div>
+            
           
       
             </div>

@@ -1,0 +1,3 @@
+RewriteEngine On
+
+RewriteRule ^([^/]+)-([a-z]{2})$ page.php?p=$1-$2&lng=$2 [L,QSA]

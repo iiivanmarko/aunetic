@@ -16,6 +16,7 @@ p,li {
   line-height: 2rem;
 }
 h1,h2{color:var(--orangeColor)}
+h1{color:white}
 .faqs h1,
 .faqs h2
 {color:var(--darkColor);}
@@ -52,7 +53,7 @@ li::marker{  font-size: 1.3rem;}
 }
 .logos img {
  /* width: 8rem; */
-width: 50px;height: 25px; object-fit: contain;
+width: auto;height: 20px; object-fit: contain;
 }
 span.logo {
  font-size: 4rem;
