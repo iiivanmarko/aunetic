@@ -14,7 +14,7 @@
       "a": "Our customers require a high level of flexibility in general, the access right management is no different.\nWe are accustomed to working with rather large and complex organizations and our access right management gives you the flexibility required.\nYou can determine per section whether it is visible for Super Admins, Group Reporters, generic users or viewers and what actions each user is able to conduct.\nEssentially, we offer a matrix structure which allows for a high level of flexibility. "
     },
     "40": {
-      "q": "What about Two-Factor Authentication (2FA), Single Sing-on (SAML 2.0.) and SCIM  (System for Cross-domain Identity Management) user proficiency? ",
+      "q": "What about Two-Factor Authentication (2FA), Single Sign-on (SAML 2.0.) and SCIM  (System for Cross-domain Identity Management) user proficiency?",
       "a": "In short: All of the above is supported and can be offered upon request. "
     },
     "41": {
@@ -59,7 +59,7 @@
     },
     "92": {
       "q": "Is your CbCR solution usable as a stand-alone solution?",
-      "a": "Our Country-by-Country Reporting SaaS module requires an active license of Aunetic’s Legal Entity Management solution (include link to LEM page), as the CbCR module relies on the existing Legal Entity Data needed for the CbCR calculation, which in itself saves you valuable time. "
+      "a": "Yes, the Country-by-Country Reporting module can be used as a stand-alone solution, with all required corporate information made available. Additional time can be saved when combining the CbCr module with an active license of Aunetic’s Legal Entity Management solution"
     },
     "93": {
       "q": "Does the CbCR solution offer further benefits, beyond the reporting itself?",
@@ -82,7 +82,7 @@
     },
     "89": {
       "q": "Is your DAC6 / MDR solution usable as a stand-alone solution?",
-      "a": "Our module requires an active license of Aunetic’s Legal Entity Management solution, as the DAC6 / MDR solution relies on the existing Legal Entity Data.\nThe Legal Entity Management module ensures that you will always have the required data up-to-date and at hand, which saves you valuable time. "
+      "a": "Yes, the MDR module can be used as a stand-alone SaaS solution. Additional time can be saved when combining the module with an active license of Aunetic’s Legal Entity Management solution."
     },
     "90": {
       "q": "How do we enter or upload the needed datapoints?",

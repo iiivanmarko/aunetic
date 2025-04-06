@@ -26,14 +26,14 @@ button{font-size: 1.2rem;}
 <h2 class="f-orange" style="padding-top: 2rem;">Choose a session focused on one of the following areas:</h2>
 <div class="btns">
 
-    <a href="demoframe-<?php echo $lng ?>?frame=Tax and Legal Management, Tax and Legal Risk" >
+    <a target="_blank" href="demoframe-<?php echo $lng ?>?frame=Tax and Legal Management, Tax and Legal Risk" >
         <button>Tax & Legal Management, Tax & Legal Risk</button>
     </a>
     
-    <a href="demoframe-<?php echo $lng ?>?frame=Internal Audit and Mobile Audit" >
+    <a target="_blank" href="demoframe-<?php echo $lng ?>?frame=Internal Audit and Mobile Audit" >
 <button>Internal Audit & Mobile Audit</button>
 </a>
-<a href="demoframe-<?php echo $lng ?>?frame=Alle Compliance" >
+<a target="_blank" href="demoframe-<?php echo $lng ?>?frame=Alle Compliance" >
     <button>Compliance & Ethics</button>
 </a>
 </div>

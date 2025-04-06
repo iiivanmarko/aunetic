@@ -52,7 +52,7 @@ h1:not(.main){font-size: 2rem; margin-bottom: 0; max-width: 700px; font-weight: 
       }
 
       h2{font-size: 2rem; color:var(--orangeColor); padding-bottom: 2rem;}
-      .pageheader{height: 550px; background-image:url("img/pages/image19.jpg"); background-size: cover; background-position: center; display:flex;align-items:center; justify-content:center;}
+      .pageheader{height: 550px; background-image:url("img/pages/image19.jpg"); background-size: cover; background-position: bottom center; display:flex;align-items:center; justify-content:center;}
       .pageheader h1{transform: translateY(20%); padding: 2rem;} 
 
 </style>

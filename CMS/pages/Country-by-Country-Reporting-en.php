@@ -19,7 +19,12 @@
         <div class="video pic"> <img class="headerimg" src="img/pages/03.jpg" alt=""></div>
         <div class="intro">
 
-        <h1>Country-by-Country Reporting made easy</h1>
+        <h1>
+            <span class="f-orange">
+            Country-by-Country Reporting
+            </span>
+             made easy
+        </h1>
       
         <p>Aunetic’s intuitive and flexible Country-by-Country Reporting Module (CbC) puts you in full control of the reporting process, from seamless data collection to effortless XML filing.</p>
 
@@ -28,8 +33,8 @@
 
             <p style="margin-bottom: 1rem; color:var(--orangeColor)">
                 For more details and a better understanding, you can book a free, no-obligation demo with us at any time – for this and any other solution.
-            </P>
-            <a href="demoframe-<?php echo $lng ?>?frame=cbcr" >
+</p>
+            <a target="_blank" href="https://outlook.office.com/owa/calendar/BookademoCountrybyCountryReportingCbCRKopie@aunetic.com/bookings/" >
 <button data-demo="<?php echo basename($_SERVER['REQUEST_URI']); ?>">Book a demo</button>
             </a>     </div>
     </div>

@@ -57,7 +57,7 @@ h1{color:var(--orangeColor)}
     justify-content: center;
 }
 .menu{position: fixed;}
-.pageheader{height: 550px; background-image:url("img/bg.jpg"); background-size: cover; display:flex;align-items:center; justify-content:center;}
+.pageheader{height: 550px; background-image:url("img/bg.jpg?v=1"); background-size: cover; display:flex;align-items:center; justify-content:center;}
 .pageheader h1{transform: translateY(20%); padding: 2rem;}
 .guiding{text-align: center; padding: 2rem;}
 .guiding h2{margin: 2rem;}

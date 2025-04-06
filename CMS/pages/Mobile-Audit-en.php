@@ -16,9 +16,9 @@
 
 
     <div class="videointro">
-        <div class="video pic"> <img class="headerimg" src="img/pages/mobile.jpg" alt=""></div>
+        <div class="video pic"> <img class="headerimg" src="img/pages/mobile.jpg?v=1" alt=""></div>
         <div class="intro">
-<h1>Aunetic Mobile Audit – everything else was yesterday!
+<h1>Aunetic <span class="fo">Mobile Audit</span> – everything else was yesterday!
 </h1>
 <p>
 The Aunetic Mobile Audit Solution is a powerful, flexible add-on for the Aunetic Internal Audit platform, designed to streamline the auditing process for businesses with multiple locations, stores or branches. With demand-oriented synchronization, multilingual capabilities, and customizable workflows, our Mobile Audit Solution adapts seamlessly to your organizational needs. The mobile app allows auditors to conduct audits on the go, attaching images and data, always ensuring full control and accessibility. Whether dealing with frequent changes or complex audit requirements, Aunetic enhances collaboration, boosts efficiency, and ensures comprehensive compliance across all branches.
@@ -27,7 +27,7 @@ The Aunetic Mobile Audit Solution is a powerful, flexible add-on for the Aunetic
 <p style="margin-bottom: 1rem; color:var(--orangeColor)">
                 For more details and a better understanding, you can book a free, no-obligation demo with us at any time – for this and any other solution.
             </P>
-            <a href="demoframe-<?php echo $lng ?>?frame=Mobile Audit" >
+            <a target="_blank" href="https://outlook.office365.com/owa/calendar/BookademoMobileAudit@aunetic.com/bookings/" >
 <button data-demo="<?php echo basename($_SERVER['REQUEST_URI']); ?>">Book a demo</button>
             </a>     </div>
     </div>

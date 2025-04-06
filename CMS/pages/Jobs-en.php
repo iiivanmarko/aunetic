@@ -26,7 +26,7 @@ Working at Aunetic
         <div class="intro">
     
     <p>
-        Working at Aunetic is as diverse and unique as our solutions. Our team comprises over 80 people from a wide range of professional backgrounds, including software developers, IT consultants, and sales experts. What unites us all are key aspects of our work environment – international experience, growth journey with numerous carrier opportunities, flexible working hours, remote work, extensive training and development, and shared values:
+    Working at Aunetic is as diverse and unique as our solutions. Our team comprises over 100 people from a wide range of professional backgrounds, including software developers, IT consultants, and sales experts. What unites us all are key aspects of our work environment – international collaboration, growth journey with numerous career opportunities, greatest flexibility to organize your work, extensive training and development, and shared values:
     </p>
     
     <h2>Home</h2>
@@ -43,6 +43,8 @@ Working at Aunetic
     <p>Join the Aunetic Team and be part of something bigger!</p>
     
     
+
+
     </div>
     
     <div id="649c336cddb233dd5d8b457f" class="je_stellenmarkt"></div>

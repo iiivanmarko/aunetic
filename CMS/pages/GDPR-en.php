@@ -19,7 +19,7 @@
         <div class="video pic"> <img class="headerimg" src="img/pages/16.jpg" alt=""></div>
         <div class="intro">
 
-        <h1>Solution for GDPR</h1>
+        <h1 >Solution for <span class="f-orange">GDPR</span> </h1>
 
         <p>Enhance your organization’s data protection with a solution designed to streamline and fortify GDPR compliance processes, ensuring you remain consistently aligned with regulatory standards. </p>
 <p>Replace self-built spreadsheets with our GDPR solution, a comprehensive tool guiding you through legally mandated data processing questions. With access to related templates and an extensive information hub, everything you need is centralized in one secure, user-friendly platform.</p>
@@ -34,7 +34,7 @@
 <p style="margin-bottom: 1rem; color:var(--orangeColor)">
                 For more details and a better understanding, you can book a free, no-obligation demo with us at any time – for this and any other solution.
             </P>
-            <a href="demoframe-<?php echo $lng ?>?frame=gdpr" >
+            <a target="_blank" href="https://outlook.office365.com/owa/calendar/BookademoGDPR@aunetic.com/bookings/" >
 <button data-demo="<?php echo basename($_SERVER['REQUEST_URI']); ?>">Book a demo</button>
             </a>     </div>
     </div>

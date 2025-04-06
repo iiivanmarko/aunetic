@@ -24,7 +24,7 @@
     <div class="videointro">
         <div class="video pic"> <img class="headerimg" src="img/pages/05.jpg" alt=""></div>
         <div class="intro">
-            <h1>Efficiency Add-ons</h1>
+            <h1 class="f-orange">Efficiency Add-ons</h1>
             <p>Aunetic provides a versatile range of additional modules that seamlessly integrate with our core solutions, allowing you to customize your system to match your organization's specific needs, size, and complexity.
             </p>
             <p>Effortlessly enhance your capabilities, unlock new opportunities, and scale with confidence. Our modular approach streamlines workflows, optimizes efficiency, and ensures your operations remain future-proof in an evolving regulatory landscape.
@@ -32,7 +32,7 @@
             <!-- <p style="margin-bottom: 1rem; color:var(--orangeColor)">
                 For more details and a better understanding, you can book a free, no-obligation demo with us at any time – for this and any other solution.
             </P>
-            <a href="demoframe-<?php echo $lng ?>?frame=Alle Compliance" >
+            <a target="_blank" href="demoframe-<?php echo $lng ?>?frame=Alle Compliance" >
 <button data-demo="<?php echo basename($_SERVER['REQUEST_URI']); ?>">Book a demo</button>
             </a> -->
         </div>

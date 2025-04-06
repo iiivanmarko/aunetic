@@ -24,7 +24,7 @@
     <div class="videointro">
         <div class="video pic"> <img class="headerimg" src="img/pages/07.jpg?v=2" alt=""></div>
         <div class="intro">
-            <h1>Aunetic Risk – Proactive Tax & Legal Risk Management</h1>
+            <h1>Aunetic Risk – Proactive <span class="fo">Tax & Legal Risk</span> Management</h1>
             <p> Effortlessly monitor and manage tax and legal risks across your entire company group with Aunetic Risk (formerly Blika).
             </p>
             <p>Our powerful risk management module enables you to track, assess, and mitigate tax and legal risks in real time, ensuring compliance and a strong risk profile. Stay ahead of risk fluctuations with clear insights and structured risk assessments. Collect your risks locally from the stakeholders with the “ear to the ground” through the within the system applied infra structure.
@@ -32,7 +32,7 @@
             <p>With Aunetic Risk (formerly Blika), you can efficiently identify, manage, and communicate critical tax and legal risks to key stakeholders, fostering transparency and control. Strengthen your governance strategy and minimize exposure with a centralized, data-driven approach to risk management.
             </p>
 
-            <a href="demoframe-<?php echo $lng ?>?frame=Tax and Legal Risk" >
+            <a target="_blank" href="https://outlook.office365.com/owa/calendar/BookademoTaxLegalRisk@aunetic.com/bookings/" >
 <button data-demo="<?php echo basename($_SERVER['REQUEST_URI']); ?>">Book a demo</button>
             </a>    </div>
     </div>

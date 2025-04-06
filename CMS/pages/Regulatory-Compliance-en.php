@@ -18,10 +18,11 @@
     <div class="videointro">
         <div class="video pic"> <video autoplay playsinline muted loop controls><source src='img/pagevideos/Aunetic Regulatory Compliance.mp4'></video></div>
         <div class="intro">
-            <h1>Aunetic Regulatory Compliance</h1>
+            <h1>Aunetic <span class="fo">Regulatory Compliance</span></h1>
             <h2 class="f-orange">Make tracking of regulatory changes easy</h2>
             <p style="margin-bottom: 1rem;">
-                Our advanced compliance solution allows you to stay informed and compliant in the face of an evolving and complex regulatory landscape. We ensure that you remain in line with the latest standards while efficiently managing both current and upcoming regulatory developments.
+            Our advanced Regulatory Compliance solution (formerly Lari) allows you to stay informed and compliant in the face of an evolving and complex regulatory landscape. We ensure that you remain in line with the latest standards while efficiently managing both current and upcoming regulatory developments.
+                
             </p>
             <p style="margin-bottom: 1rem;">
                 With our AI driven automated monitoring and tailored alerts, your team stays up to date, enabling you to focus on what matters most without getting lost in the details.  
@@ -29,7 +30,7 @@
             <p style="margin-bottom: 1rem; color:var(--orangeColor)">
                 For more details and a better understanding, you can book a free, no-obligation demo with us at any time – for this and any other solution.
             </P>
-            <a href="demoframe-<?php echo $lng ?>?frame=Alle Compliance" >
+            <a target="_blank" href="https://outlook.office.com/owa/calendar/BookademoComplianceQnister@aunetic.com/bookings/" >
 <button data-demo="<?php echo basename($_SERVER['REQUEST_URI']); ?>">Book a demo</button>
             </a>     </div>
     </div>
@@ -130,8 +131,11 @@
 
 
     <h2>
-        Use Case: <br> <span class="f-orange">    NLB
-        (first cross-product using Auditing and Regulatory Compliance EE module and LARI’s Compliance module)</span>
+
+
+        Use Case: <br>  
+        <span style="color:white">NLB </span>
+    (first cross-product using the Aunetic Audit and Regulatory Compliance modules)    
     </h2>
 
     <div class="sets">
@@ -139,7 +143,7 @@
         <fieldset>
             <legend>Situation</legend>
             <p>
-                Facing evolving regulatory demands, NLB recognized the need to transition from manual audits and compliance reviews to a more robust, technology-driven approach. By integrating the LARI solution with Aunetic Audit, NLB has streamlined regulatory compliance processes, reduced regulatory risk, and significantly improved operational efficiency.
+                Facing evolving regulatory demands, NLB recognized the need to transition from manual audits and compliance reviews to a more robust, technology-driven approach. By integrating the Regulatory Compliance solution with Aunetic Audit, NLB has streamlined regulatory compliance processes, reduced regulatory risk, and significantly improved operational efficiency.
             </p>
             
         </fieldset>

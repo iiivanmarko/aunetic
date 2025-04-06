@@ -19,7 +19,7 @@
         <div class="video pic"><img src="img/pages/image1.jpg" alt=""></div>
         <div class="intro">
           
-<h1>Mandatory Disclosure Regime (DAC6)</h1>
+<h1 class="fo">Mandatory Disclosure Regime (DAC6)</h1>
 
 <p>Take full control of the Mandatory Disclosure Regime (MDR) with Aunetic’s MDR module (formerly Blika).
 </p>
@@ -36,7 +36,7 @@
     <p style="margin-bottom: 1rem; color:var(--orangeColor)">
                 For more details and a better understanding, you can book a free, no-obligation demo with us at any time – for this and any other solution.
             </P>
-            <a href="demoframe-<?php echo $lng ?>?frame=DAC 6" >
+            <a target="_blank" href="https://outlook.office365.com/owa/calendar/BookademoDAC6@aunetic.com/bookings/" >
 <button data-demo="<?php echo basename($_SERVER['REQUEST_URI']); ?>">Book a demo</button>
             </a>      </div>
     </div>

@@ -1,38 +1,36 @@
 {
 
 
-
-
-"Legal Entity Management":"<iframe src='https://outlook.office365.com/owa/calendar/BookademoTaxLegalManagement@aunetic.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>",
-
-
-"Pillar 2":"<iframe src='https://outlook.office365.com/owa/calendar/BookademoPillar2@aunetic.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>",
-
-"cbcr":"<iframe src='https://outlook.office.com/owa/calendar/BookademoCountrybyCountryReportingCbCRKopie@aunetic.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>",
-"gdpr":"<iframe src='https://outlook.office365.com/owa/calendar/BookademoGDPR@aunetic.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>",
-
-"DAC 6":"<iframe src='https://outlook.office365.com/owa/calendar/BookademoDAC6@aunetic.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>",
-"whistle":"<iframe src='https://outlook.office365.com/owa/calendar/BookademoWhistleblowing@aunetic.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>",
-
-
-
-"Tax and Legal Risk":"<iframe src='https://outlook.office365.com/owa/calendar/BookademoTaxLegalRisk@aunetic.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>",
-
-"Internal Audit":"<iframe src='https://outlook.office365.com/owa/calendar/BookademoInternalAudit@aunetic.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>",
-
-"Mobile Audit":"<iframe src='https://outlook.office365.com/owa/calendar/BookademoMobileAudit@aunetic.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>",
-"Sanctions":"<iframe src='https://outlook.office365.com/owa/calendar/BookademoSanctions@aunetic.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>",
-
-
-
-
-
-"Tax and Legal Management, Tax and Legal Risk":"<iframe src='https://outlook.office365.com/owa/calendar/BookademoDiscoveryCalls@aunetic.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>",
-
-
-"Internal Audit and Mobile Audit":"<iframe src='https://outlook.office365.com/owa/calendar/BookademoInternalAuditOverview@aunetic.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>",
-
-"Alle Compliance":"<iframe src='https://outlook.office365.com/owa/calendar/BookademoComplianceandEthics@aunetic.com/bookings/' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>"
-
-
-}
+    "Legal Entity Management":"https://outlook.office365.com/owa/calendar/BookademoTaxLegalManagement@aunetic.com/bookings/",
+    
+    
+    "Pillar 2":"https://outlook.office365.com/owa/calendar/BookademoPillar2@aunetic.com/bookings/",
+    
+    "cbcr":"https://outlook.office.com/owa/calendar/BookademoCountrybyCountryReportingCbCRKopie@aunetic.com/bookings/",
+    "gdpr":"https://outlook.office365.com/owa/calendar/BookademoGDPR@aunetic.com/bookings/",
+    
+    "DAC 6":"https://outlook.office365.com/owa/calendar/BookademoDAC6@aunetic.com/bookings/",
+    "whistle":"https://outlook.office365.com/owa/calendar/BookademoWhistleblowing@aunetic.com/bookings/",
+    
+    
+    
+    "Tax and Legal Risk":"https://outlook.office365.com/owa/calendar/BookademoTaxLegalRisk@aunetic.com/bookings/",
+    
+    "Internal Audit":"https://outlook.office365.com/owa/calendar/BookademoInternalAudit@aunetic.com/bookings/",
+    
+    "Mobile Audit":"https://outlook.office365.com/owa/calendar/BookademoMobileAudit@aunetic.com/bookings/",
+    "Sanctions":"https://outlook.office365.com/owa/calendar/BookademoSanctions@aunetic.com/bookings/",
+    
+    
+    
+    
+    
+    "Tax and Legal Management, Tax and Legal Risk":"https://outlook.office365.com/owa/calendar/BookademoDiscoveryCalls@aunetic.com/bookings/",
+    
+    
+    "Internal Audit and Mobile Audit":"https://outlook.office365.com/owa/calendar/BookademoInternalAuditOverview@aunetic.com/bookings/",
+    
+    "Alle Compliance":"https://outlook.office365.com/owa/calendar/BookademoComplianceandEthics@aunetic.com/bookings/"
+    
+    
+    }

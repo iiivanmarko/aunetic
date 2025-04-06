@@ -27,7 +27,8 @@ img{width: 100%}
 h1,h2,p{margin: 0;padding: 0;}
 
 video.cover{width:100%;height:40svh;left:0;top:0; object-fit: cover; object-position: center;}
-
+.hovertoorange:hover{color: var(--orangeColor);}
+.hovertoorange{text-decoration: underline;}
 .max-width{max-width: 1200px;width: 100%;margin: 0 auto;}
 .noselect {user-select: none;}
 .pointer{cursor: pointer;}

@@ -16,9 +16,9 @@
 
 
     <div class="videointro">
-        <div class="video pic"> <img class="headerimg" src="img/pages/10.jpg" alt=""></div>
+        <div class="video pic"> <img class="headerimg" src="img/pages/10.jpg?v=1" alt=""></div>
         <div class="intro">
-        <h1>Automate compliance, reduce risk, maximize efficiency 
+        <h1 class="f-orange">Automate compliance, reduce risk, maximize efficiency 
 </h1>
 <p>In today’s complex regulatory landscape, Aunetic's Compliance Management Solution helps organizations stay ahead by seamlessly integrating compliance management and audit functionality. Streamline workflows, reduce administrative burdens, and ensure regulatory integrity across all business operations.
 </p>
@@ -28,9 +28,9 @@
 </p>
 
 <p style="margin-bottom: 1rem; color:var(--orangeColor)">
-                Für weitere Informationen und ein besseres Verständnis können Sie jederzeit eine kostenlose und unverbindliche Demo mit uns buchen – für diese und jede andere Lösung.
-            </P>
-            <a href="demoframe-<?php echo $lng ?>?frame=Alle Compliance" >
+For more details and a better understanding, you can book a free, no-obligation demo with us at any time – for this and any other solution.
+</p>
+            <a target="_blank" href="https://outlook.office.com/owa/calendar/BookademoComplianceQnister@aunetic.com/bookings/" >
 <button data-demo="<?php echo basename($_SERVER['REQUEST_URI']); ?>">Demo buchen</button>
             </a>     </div>
     </div>

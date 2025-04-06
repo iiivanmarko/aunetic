@@ -18,7 +18,7 @@
     <div class="videointro">
         <div class="video pic"> <img class="headerimg" src="img/pages/sanctions.jpg" alt=""></div>
         <div class="intro">
-<h1>Search in sanction lists</h1>
+<h1 class="fo">Search in sanction lists</h1>
 <p>Aunetic Sanctions (formerly Qnister) makes it easy to find blacklisted companies and individuals. Search multiple lists at once and see if there are sanctions that could affect your collaboration with a particular actor.
 </p>
 <ul style="padding: 1rem 0;">
@@ -33,7 +33,7 @@
 <p style="margin-bottom: 1rem; color:var(--orangeColor)">
                 For more details and a better understanding, you can book a free, no-obligation demo with us at any time – for this and any other solution.
             </P>
-            <a href="demoframe-<?php echo $lng ?>?frame=Sanctions" >
+            <a target="_blank" href="https://outlook.office365.com/owa/calendar/BookademoSanctions@aunetic.com/bookings/" >
 <button data-demo="<?php echo basename($_SERVER['REQUEST_URI']); ?>">Book a demo</button>
             </a>     </div>
     </div>

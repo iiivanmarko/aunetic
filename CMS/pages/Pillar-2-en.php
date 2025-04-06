@@ -18,7 +18,7 @@
     <div class="videointro">
         <div class="video pic"> <video autoplay  playsinline muted controls loop preload="metadata"><source src='img/pagevideos/pillar.mp4'></video></div>
         <div class="intro">
-            <h1>Simplify your Pillar 2 Compliance:         </h1>
+            <h1>Simplify your <span class="fo">Pillar 2 </span>Compliance:         </h1>
             <h2 class="f-orange">Aunetic Pillar 2 – Streamlined Solutions for Global Tax Requirements</h2>
             <p>
             Our Aunetic Pillar 2 (formerly Blika) platform provides a streamlined approach to managing compliance with the Global Anti-Base Erosion (GloBE) Rules, supporting your organization to meet global minimum corporate tax requirements with precision and efficiency.
@@ -41,7 +41,7 @@
     <p style="margin-bottom: 1rem; color:var(--orangeColor)">
                 For more details and a better understanding, you can book a free, no-obligation demo with us at any time – for this and any other solution.
             </P>
-            <a href="demoframe-<?php echo $lng ?>?frame=Pillar 2" >
+            <a target="_blank" href="https://outlook.office365.com/owa/calendar/BookademoPillar2@aunetic.com/bookings/" >
 <button data-demo="<?php echo basename($_SERVER['REQUEST_URI']); ?>">Book a demo</button>
             </a>      </div>
     </div>

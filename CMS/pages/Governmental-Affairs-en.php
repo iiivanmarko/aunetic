@@ -18,20 +18,22 @@
     <div class="videointro">
         <div class="video pic"> <img class="headerimg" src="img/pages/13.jpg" alt=""></div>
         <div class="intro">
-<h1>Stay ahead in the dynamic political landscape with our Governmental Affairs solution.
+<h1>Stay ahead in the dynamic political landscape with our <span class="f-orange">Governmental Affairs</span> solution.
 </h1>
 
 <p>Navigate the complexities of political developments and ensure you remain fully updated on the key events, policies, and decisions that shape your industry.
 </p>
 <p>Track legislative changes, government initiatives, and critical political deals as they unfold with our automated political monitoring, ensuring that you are always equipped with timely and relevant information.
 </p>
-<p>Our solution helps you anticipate emerging opportunities and navigate political shifts, positioning you for success in a dynamic and evolving environment.
+<p>Our Governmental Affairs solution (formerly Lari) helps you anticipate emerging opportunities and navigate political shifts, positioning you for success in a dynamic and evolving environment.
 </p>
+
+
 
 <p style="margin-bottom: 1rem; color:var(--orangeColor)">
                 For more details and a better understanding, you can book a free, no-obligation demo with us at any time – for this and any other solution.
             </P>
-            <a href="demoframe-<?php echo $lng ?>?frame=Alle Compliance" >
+            <a target="_blank" href="https://outlook.office.com/owa/calendar/BookademoComplianceQnister@aunetic.com/bookings/" >
 <button data-demo="<?php echo basename($_SERVER['REQUEST_URI']); ?>">Book a demo</button>
             </a>     </div>
     </div>

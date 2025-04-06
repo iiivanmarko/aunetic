@@ -6,7 +6,7 @@
   padding: 2rem;
 }
 
-.f-orange {
+.f-orange,.fo {
   color: var(--orangeColor);
 }
 .f-dark {

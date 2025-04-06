@@ -71,7 +71,7 @@ include("elements/meta.php");
         
          <video class="cover" autoplay playsinline muted loop data-video preload="metadata"><source src='img/videos/0.mp4'></video>
          <div class="loop mainloop" data-loop><div class="mover">
-  <?php $loop = "<a href=Mobile-Audit-".$lng.">Performing audits just got easier, faster, and more efficient with AuneticMOBILE!</a>" ?>
+  <?php $loop = "<a href=Mobile-Audit-".$lng.">Performing audits just got easier, faster, and more efficient with Aunetic Mobile!</a>" ?>
   <div class='one' data-one>
   <?php echo $loop ?>
   </div>
@@ -89,29 +89,17 @@ include("elements/meta.php");
 <div class="pagecontent mainpage" style="padding: 2rem; max-width: 1000px; margin: 0 auto;">
   
 <?php if ($lng == "de") {?>
-  <h1>Guiding Governance</h1>
-  <p>At Aunetic, we provide cutting-edge <strong>governance software</strong> designed to simplify and enhance <strong>audit,</strong> <strong>compliance, tax & legal management, risk management, and regulatory processes</strong>.</p>
-  <p>Our solutions seamlessly <strong>mirror your governance department</strong>, ensuring that every aspect of governance is addressed efficiently and comprehensively - all in one place.</p>
   <?php  }?>
 <?php if ($lng == "swe") {?>
-  <h1>SWE-Guiding Governance.</h1>
-  <p>At Aunetic, we provide cutting-edge <strong>governance software</strong> designed to simplify and enhance <strong>audit,</strong> <strong>compliance, tax & legal management, risk management, and regulatory processes</strong>.</p>
-  <p>Our solutions seamlessly <strong>mirror your governance department</strong>, ensuring that every aspect of governance is addressed efficiently and comprehensively - all in one place.</p>
   <?php  }?>
 <?php if ($lng == "en" || $lng == "undefined") {?>
-  <h1>Guiding Governance.</h1>
-  <p>  In a rapidly evolving regulatory landscape, we empower companies with integrated governance solutions. Our mission is to break down silos between governance departments, fostering collaboration and efficiency across organizations.
-  </p>
-  <p>With cutting-edge technology and deep expertise, we streamline compliance, enhance transparency, and drive smarter decision-making. 
-  </p>
-  <p>Our software solutions are trusted by over 1 million users across 120+ countries, ensuring seamless governance that adapts to new challenges.
-  </p>
-  <p>Governance is more than compliance, it’s about innovation, sustainability, and future-proofing businesses. 
-  </p>
-  <p>Find out more about our
-    <a href="Our-Story-<?php echo $lng ?>">
+  <h1 class="f-orange">Guiding Governance.</h1>
+  <p>In a rapidly evolving regulatory landscape, we <strong>empower companies</strong> with integrated <strong>governance</strong> <strong>solutions</strong>. Our mission is to break down silos between governance departments, <strong>fostering</strong> <strong>collaboration</strong> and <strong>efficiency</strong> across organizations.</p>
+<p>With <strong>cutting-edge technology</strong> and deep expertise, we <strong>streamline compliance</strong>, enhance transparency, and drive smarter decision-making. Our software solutions are trusted by over <strong>1 million</strong> users across <strong>120+ countries</strong>, ensuring seamless governance that adapts to new challenges.</p>
+<p>Governance is more than compliance, it’s about <strong>innovation</strong>, <strong>sustainability</strong>, and <strong>future-proofing</strong> businesses.</p>
+<p>Find out more about us in our     <a class="hovertoorange" href="Our-Story-<?php echo $lng ?>">
 
-    story
+    story.
     </a>
   </p>
   <?php  }?>

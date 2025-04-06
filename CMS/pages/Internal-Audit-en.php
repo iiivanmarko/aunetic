@@ -19,7 +19,7 @@
         <div class="video pic"> <video autoplay  playsinline muted controls loop preload="metadata"><source src='img/pagevideos/Aunetic Audit English.mp4'></video></div>
         <div class="intro">
         
-<h1>Optimize your Audits with Aunetic – Scalable & Automated Audit Software</h1>
+<h1 class="f-orange">Optimize your Audits with Aunetic – Scalable & Automated Audit Software</h1>
 
 <p>Streamline your audit processes with our powerful audit software, designed for businesses of all sizes and industries. Aunetic Audit (formerly audimex) covers the entire audit lifecycle – from planning and fieldwork to reporting and follow-ups – ensuring efficiency, accuracy, and compliance.</p>
 <h2>Why choose Aunetic Audit (formerly audimex) for your internal audits?</h2>
@@ -42,7 +42,7 @@ Get started today and empower your team, whether it's one person or hundreds of 
     <p style="margin-bottom: 1rem; color:var(--orangeColor)">
                 For more details and a better understanding, you can book a free, no-obligation demo with us at any time – for this and any other solution.
             </P>
-            <a href="demoframe-<?php echo $lng ?>?frame=Internal Audit" >
+            <a target="_blank" href="https://outlook.office365.com/owa/calendar/BookademoInternalAudit@aunetic.com/bookings/" >
 <button data-demo="<?php echo basename($_SERVER['REQUEST_URI']); ?>">Book a demo</button>
             </a>      </div>
     </div>

@@ -21,7 +21,7 @@
         <div class="video pic"> <img class="headerimg" src="img/pages/15.jpg" alt=""></div>
         <div class="intro">
 
-        <h1>Solution for Whistleblowing </h1>
+        <h1>Solution for <span class="fo">Whistleblowing</span> </h1>
 <p>Ensure full compliance with whistleblowing regulations through our solution, created by legal counsels. A secure, anonymous reporting system that fosters an ethical, transparent organizational environment. Our Whistleblowing solution protects data privacy and simplifies case handling, empowering employees to report concerns safely and confidentially. </p>
 
 <ul style="padding: 1rem 0;">
@@ -55,7 +55,7 @@
 <p style="margin-bottom: 1rem; color:var(--orangeColor)">
                 For more details and a better understanding, you can book a free, no-obligation demo with us at any time – for this and any other solution.
             </P>
-            <a href="demoframe-<?php echo $lng ?>?frame=whistle" >
+            <a target="_blank" href="https://outlook.office365.com/owa/calendar/BookademoWhistleblowing@aunetic.com/bookings/" >
 <button data-demo="<?php echo basename($_SERVER['REQUEST_URI']); ?>">Book a demo</button>
             </a>     </div>
     </div>
@@ -146,7 +146,7 @@
 
     <p class="quote" style="max-width: 600px;" >
         <span class="quotes">“</span>
-        It was no doubt that we would develop our work with whistleblowing together with Aunetic (formally Qnister).                <span class="quotes">”</span>
+        It was no doubt that we would develop our work with whistleblowing together with Aunetic (formerly Qnister).                <span class="quotes">”</span>
         <span style="margin-top: 1rem; display: block;">
         Petra Sprangers, Fastighets AB Balder
 
@@ -171,7 +171,7 @@
 <div class="faqs center maxwidth">
     <h1>FAQs</h1>
     <?php include("getFAQs.php");
- getData("Compliance Management",$lng)
+ getData("Whistleblowing",$lng)
  ?>
 
     <div style="font-size: 2rem; cursor:pointer; padding: 2rem;">

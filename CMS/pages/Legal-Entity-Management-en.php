@@ -19,7 +19,7 @@
         <div class="video pic"> <img class="headerimg" src="img/pages/14.jpg" alt=""></div>
         <div class="intro">
     
-            <h1>Simplify Governance with Aunetic’s Legal Entity Management Solution (LEM)</h1>
+            <h1>Simplify Governance with Aunetic’s <span class="f-orange">Legal Entity Management</span> Solution <span class="f-orange">(LEM)</span></h1>
             <p>Aunetic’s Legal Entity Management (formerly Blika) software is intuitive, scalable, and adaptable to your organization. Easily track all entity-related data, access your current and historical legal structure instantly, and visualize your organization with dynamic, customizable charts. </p>
 
             <h2>Built to Scale with Your Business</h2>
@@ -34,7 +34,7 @@
                 For more details and a better understanding, you can book a free, no-obligation demo with us at any time – for this and any other solution.
             </P>
 
-            <a href="demoframe-<?php echo $lng ?>?frame=Legal Entity Management" >
+            <a target="_blank" href="https://outlook.office365.com/owa/calendar/BookademoTaxLegalManagement@aunetic.com/bookings/" >
 <button data-demo="<?php echo basename($_SERVER['REQUEST_URI']); ?>">Book a demo</button>
             </a>    </div>
     </div>

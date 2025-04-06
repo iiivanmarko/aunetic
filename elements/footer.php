@@ -35,7 +35,8 @@ function getfooter()
       <section id="footer">
         <div class="max-width">
           <div class="links">
-            <a href="">Data protection</a>
+            <a href="">Privacy Policy</a>
+            <a href="">Cookie Policy</a>
             <a href="">Imprint</a>
             <a href="Contact-en">Contact</a>
             <a href="FAQs-en">FAQ</a>
@@ -58,7 +59,8 @@ function getfooter()
       <section id="footer">
         <div class="max-width">
           <div class="links">
-            <a href="">Data protection</a>
+            <a href="">Privacy Policy</a>
+            <a href="">Cookie Policy</a>
             <a href="">Imprint</a>
             <a href="Contact-en">Contact</a>
             <a href="FAQs-en">FAQ</a>
