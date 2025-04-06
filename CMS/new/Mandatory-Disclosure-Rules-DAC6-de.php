@@ -1,1 +1,0 @@
-Mandatory-Disclosure-Rules-DAC6-de
