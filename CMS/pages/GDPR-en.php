@@ -34,7 +34,7 @@
 <p style="margin-bottom: 1rem; color:var(--orangeColor)">
                 For more details and a better understanding, you can book a free, no-obligation demo with us at any time – for this and any other solution.
             </P>
-            <a target="_blank" href="https://outlook.office365.com/owa/calendar/BookademoGDPR@aunetic.com/bookings/" >
+    <a target="_blank" href="demoframe-<?php echo $lng ?>?frame=Tax and Legal Management, Tax and Legal Risk" >
 <button data-demo="<?php echo basename($_SERVER['REQUEST_URI']); ?>">Book a demo</button>
             </a>     </div>
     </div>

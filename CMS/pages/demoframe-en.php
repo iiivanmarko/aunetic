@@ -13,7 +13,7 @@ iframe{min-height: 100vh;}
     foreach ($data as $key => $link) { 
 
         if($key == $frame){
-            echo $link;
+            echo"<iframe src='$link' width='100%' height='100%' scrolling='yes' style='border:0'></iframe>";
         ?>
 
 

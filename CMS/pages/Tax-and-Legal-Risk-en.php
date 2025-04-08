@@ -32,7 +32,7 @@
             <p>With Aunetic Risk (formerly Blika), you can efficiently identify, manage, and communicate critical tax and legal risks to key stakeholders, fostering transparency and control. Strengthen your governance strategy and minimize exposure with a centralized, data-driven approach to risk management.
             </p>
 
-            <a target="_blank" href="https://outlook.office365.com/owa/calendar/BookademoTaxLegalRisk@aunetic.com/bookings/" >
+    <a target="_blank" href="demoframe-<?php echo $lng ?>?frame=Tax and Legal Management, Tax and Legal Risk" >
 <button data-demo="<?php echo basename($_SERVER['REQUEST_URI']); ?>">Book a demo</button>
             </a>    </div>
     </div>

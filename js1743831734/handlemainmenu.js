@@ -136,9 +136,9 @@ desktopmenu.append(button);
 
 
 
-$.post("php/createPage.php",{page:text.replace("<br>","")
-  .replace("/","")
-  .replace(/\s+/g,"-")+"-"+lng})
+// $.post("php/createPage.php",{page:text.replace("<br>","")
+//   .replace("/","")
+//   .replace(/\s+/g,"-")+"-"+lng})
 
 
     elm.innerHTML = text;

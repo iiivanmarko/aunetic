@@ -1,0 +1,57 @@
+[
+    {
+      "Purpose and description": "User in one of our digital services: We process your personal data to provide the service in question.",
+      "Personal data": "Name, e-mail",
+      "Lawful basis for the processing": "Legitimate interest to fulfill the commitments towards your employer.",
+      "Additional information": ""
+    },
+    {
+      "Purpose and description": "Customer support: the purpose is to provide our services in accordance with the contract with the customer. Thus, we may have to process personal data regarding the customer, counterpart, and other potential contacts in conjunction with the support.",
+      "Personal data": "Name, phone number, title, address, e-mail, personal data. Depending on the circumstances, other types of personal data may be processed.",
+      "Lawful basis for the processing": "Legitimate interest, legal obligation, contract.",
+      "Additional information": ""
+    },
+    {
+      "Purpose and description": "Contact through the webpage or other ways of communication: when you contact us via the contact form on our website or by reaching out to one of our employees, we process your personal data to administrate your question. We may also use your contact details for marketing purposes and to send you offers and newsletters.",
+      "Personal data": "Name, phone number, address, e-mail.",
+      "Lawful basis for the processing": "Legitimate interest",
+      "Additional information": ""
+    },
+    {
+      "Purpose and description": "Signing up for our newsletters: when you sign up for our newsletters, we collect your contact details to send you the newsletter. To send newsletters, we use our partners, which means your personal data will be shared to a third party. We may also use your contact details for marketing purposes and send you offers and newsletters.",
+      "Personal data": "E-mail",
+      "Lawful basis for the processing": "Consent",
+      "Additional information": ""
+    },
+    {
+      "Purpose and description": "When you participate in our events: if you sign up for one of our events, we process your personal data to administrate the events regarding, for example, event spaces and food orders.",
+      "Personal data": "Name, phone number, address, e-mail, employer.",
+      "Lawful basis for the processing": "Legitimate interest",
+      "Additional information": ""
+    },
+    {
+      "Purpose and description": "When you apply for a position at Aunetic in an existing recruitment ad: we process your personal data to assess you throughout the recruitment process.",
+      "Personal data": "Name, phone number, address, e-mail, year of birth, other types of personal data that you choose to share with us in conjunction with the application or at an interview.",
+      "Lawful basis for the processing": "Legitimate interest",
+      "Additional information": ""
+    },
+    {
+      "Purpose and description": "When you spontaneously apply for a position at Aunetic: we process your personal data to assess you before a potential recruitment process.",
+      "Personal data": "Name, phone number, address, e-mail, year of birth, other types of personal data that you choose to share with us in conjunction with the application.",
+      "Lawful basis for the processing": "Legitimate interest for one year.",
+      "Additional information": "After one year, if you want your application to remain, we ask for your consent."
+    },
+    {
+      "Purpose and description": "When you represent Aunetic as a partner or supplier: we process your personal data when you are in touch with Aunetic representing your employer. If your employer is a supplier, our purpose of the processing is to fulfill our commitments in the contract. In other situations, the processing depends on the nature of the case.",
+      "Personal data": "Name, phone number, address, e-mail.",
+      "Lawful basis for the processing": "Legitimate interest to fulfill the commitments towards your employer.",
+      "Additional information": ""
+    },
+    {
+      "Purpose and description": "New customer targeting: we process personal data about you as a potential customer of ours.",
+      "Personal data": "Name, phone number, e-mail, title.",
+      "Lawful basis for the processing": "Legitimate interest to promote and sell our services.",
+      "Additional information": ""
+    }
+  ]
+  
